@@ -1,8 +1,12 @@
+package examples;
+
 import javax.swing.*;
 import java.awt.*;
 import java.util.Calendar;
 import swidgets.*;
 import nz.sodium.*;
+import swidgets.SButton;
+import swidgets.src.swidgets.*;
 
 public class airline1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package swidgets;
+package swidgets.src.swidgets;
 
 import nz.sodium.*;
 import javax.swing.JButton;
